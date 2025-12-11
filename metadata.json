@@ -1,0 +1,7 @@
+{
+  "name": "HR Lite - Clinic Operation System",
+  "description": "A comprehensive HR management prototype featuring an Admin Dashboard for managers (Scheduling, Payroll, Attendance) and a Mobile/LINE interface for employees (Check-in, Leave, Payslips).",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
