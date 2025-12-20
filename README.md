@@ -6,6 +6,8 @@
 
 **HR Lite** is a specialized Human Resources Management prototype designed specifically for medical clinics and small healthcare facilities. It bridges the gap between complex enterprise ERPs and manual paperwork, offering a streamlined experience for both administrators and medical staff.
 
+[Demo URL](https://chr.gistshu.workers.dev/#/login)
+
 ---
 
 ## 🌟 Key Philosophy
